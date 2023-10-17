@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://kuamatzin.github.io',
-  	base: '/my-repo',
+  	base: '/starlight-docs',
 	integrations: [
 		starlight({
 			title: 'ESubmission API',
