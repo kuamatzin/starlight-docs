@@ -2,7 +2,7 @@
 title: Folder structure
 ---
 
-## Further reading
+This is a backend project built with the Serverless Framework on AWS using Node.js. Here is a breakdown of the project structure.
 
 ```
 .gitignore
@@ -51,10 +51,6 @@ src
    |   |   |-- validateInput.js
    |   |-- utils.js
 ```
-
-# Project Documentation
-
-This is a backend project built with the Serverless Framework on AWS using Node.js. Here is a breakdown of the project structure.
 
 ## Project Structure
 

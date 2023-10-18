@@ -15,15 +15,15 @@ export default defineConfig({
 					label: 'Getting Started',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Installation', link: '/installation' },
+						{ label: 'Introduction', link: '/introduction' },
 					],
 				},
 				{
 					label: 'Framework',
 					items: [
 						{
-							label: 'Introduction',
-							link: '/framework/introduction',
+							label: 'Installation',
+							link: '/framework/installation',
 						},
 						{
 							label: 'Folder Structure',
